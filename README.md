@@ -9,8 +9,8 @@
 **Name:** Hakan Asmaoglu  
 **Email:** c2asha00@students.oamk.fi
 
-**Name:** Sushan Maharjan
-**Email:** 
+**Name:** Sushan Maharjan  
+**Email:** t2masu00@students.oamk.fi
 
 ## Features:
 - User authentication with Firebase
