@@ -13,6 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "FirebaseAuthProjectByShovanDas"
+rootProject.name = "login"
 include(":app")
- 
