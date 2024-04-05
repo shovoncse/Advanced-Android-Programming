@@ -20,6 +20,3 @@
 Kotlin
 Firebase
 Android Studio
-
-## Design Sample
-(Will be added later)
