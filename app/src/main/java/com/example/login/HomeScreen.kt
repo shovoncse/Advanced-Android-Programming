@@ -30,7 +30,7 @@ fun HomeScreen(
         Text(
             text = "Welcome, $userEmail",
             style = MaterialTheme.typography.bodyLarge,
-            modifier = Modifier.padding(bottom = 16.dp)
+            modifier = Modifier.padding(bottom = 18.dp)
         )
 
         Button(onClick = onLogout) {

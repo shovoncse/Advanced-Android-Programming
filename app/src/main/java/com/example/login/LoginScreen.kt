@@ -84,7 +84,7 @@ fun LoginScreen(
             ),
             modifier = Modifier
                 .fillMaxWidth()
-                .padding(bottom = 8.dp)
+                .padding(bottom = 10.dp)
         )
 
         OutlinedTextField(
